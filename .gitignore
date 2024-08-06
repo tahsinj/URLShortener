@@ -1,7 +1,8 @@
-migrations/
+urlshort/migrations/
+urlshort/__pycache__
 .venv
 .env
-__pycache__/
+URLShortener/__pycache__/
 *.log
 local_settings.py
 db.sqlite3
