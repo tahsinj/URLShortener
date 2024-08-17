@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Django URL Shortener project! This web application, built by Django, allows users to shorten long URLs, making them easier to share and manage. 
+This URL Shortener project is built using the Django framework to help simplify lengthy URLs into shorter more manageable URLs.
 
 ## Features
 
